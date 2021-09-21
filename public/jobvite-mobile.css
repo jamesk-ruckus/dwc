@@ -88,7 +88,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
 
-.jv-wrapper a { color: #e12727; }
+.jv-wrapper a, .jv-list-label { color: #e12727; }
 
 .jv-search-field::placeholder {
  color: #000;
