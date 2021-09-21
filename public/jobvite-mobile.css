@@ -83,7 +83,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
 
-.jv-footer 			{}
+.jv-footer 			{ background-color: #000; }
 
 .jv-nav.jv-animate { background-color: #000 }
 
@@ -106,6 +106,9 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  font-family: 'Fenomen Sans', sans-serif;
 }
 
+.icon.icon-powered-by {
+ color: #fff;
+}
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
