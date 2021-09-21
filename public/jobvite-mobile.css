@@ -80,23 +80,15 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  border-bottom: solid 1px #fff;
 }
 
-.jv-job-category-meta { color: #fff }
+.jv-page-body, .icon.icon-powered-by,	.jv-job-category-meta	{ color: #fff }
 
-.jv-tab 			{ color: #000 }
-
-.jv-tab.jv-tab-active { color: #000 }
-.jv-page-body 		{ color: #fff }
+.jv-tab, .jv-search-icon, .jv-tab.jv-tab-active, .jv-footer, .jv-nav.jv-animate	{ 
+ color: #000 
+}
 
 .jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
 
 .jv-wrapper a { color: #e12727; }
-
-.jv-footer 			{ background-color: #000; }
-
-.jv-nav.jv-animate { background-color: #000 }
-
-.jv-search-icon { color: #000; }
-
 
 .jv-search-field::placeholder {
  color: #000;
@@ -114,64 +106,27 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  font-family: 'Fenomen Sans', sans-serif;
 }
 
-.icon.icon-powered-by {
- color: #fff;
-}
-
 /* ===== JOB LISTINGS PAGE  =================== */
 
 .jv-job-list-pane 		{}
 
 .jv-job-categories 		{ background-color: #000 }
 
-
-
-.jv-job-category-link.jv-list-icon { color: #e12727 }
-
-.jv-list-icon.icon.icon-mobile-expand { color: #e12727; }
-
-.jv-job-category-label 	{ color: #e12727; }
+.jv-icon-primary.icon.icon-pin, .jv-job-category-label, .jv-job-category-link.jv-list-icon, .jv-list-icon.icon.icon-mobile-expand, jv-list-icon.icon.icon-mobile-collapse { 
+ color: #e12727; 
+}
 
 .jv-job-category-meta 	{}
 
 .jv-list-icon 			{}
 
-.jv-icon-primary.icon.icon-pin {
- color: #e12727;
-}
+/* ========== JOB DETAILS PAGE =============== */
 
-.jv-share-widget-title {
+.jv-job-detail-description, h2.jv-header, h3.jv-sub-header, .jv-share-widget-title {
  font-family: 'Fenomen Sans', sans-serif;
 }
 
-.jv-job-list 			{}
-
-.jv-job-list-inner 		{}
-
-.jv-job-item 			{}
-
-.jv-list-link 			{}
-
-.jv-list-label 			{}
-
-.jv-meta 				{}
-
-
-/* ========== JOB DETAILS PAGE =============== */
-
-h2.jv-header 					{ font-family: 'Fenomen Sans', sans-serif; }
-
-h3.jv-sub-header { font-family: 'Fenomen Sans', sans-serif; }
-
-.jv-job-detail-location			{}
-
-.jv-job-detail-top-actions 		{}
-
-.jv-job-detail-description { font-family: 'Fenomen Sans', sans-serif; }
-
-.jv-job-detail-bottom-actions 	{}
-
-.jv-button 				{
+.jv-button 	{
   border-radius: 0;
   color: #201e1d;
   background-color: #e12727;
@@ -199,12 +154,6 @@ h3.jv-sub-header { font-family: 'Fenomen Sans', sans-serif; }
   font-family: 'Fenomen Sans', sans-serif;
   color: #fff;
 }
-
-.jv-share-widget 		{}
-
-
-
-
 
 /* ========== APPLY PAGE ====================== */
 
