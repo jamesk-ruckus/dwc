@@ -40,6 +40,10 @@ h3.h2     			{ color: #E12727 }
 
 .jv-job-list-location { color: #fff }
 
+a { color: #E12727 }
+
+a:hover { color: #E12727 }
+
 /* ========== JOB DETAILS PAGE =============== */
 
 h2.jv-header 	{}
@@ -57,9 +61,6 @@ h2.jv-header 	{}
 
 .jv-job-detail-bottom-actions,
 .jv-apply-form-actions 	{ }
-
-
-
 
 
 
