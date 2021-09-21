@@ -128,6 +128,8 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-job-category-link.jv-list-icon { color: #e12727 }
 
+.jv-list-icon.icon.icon-mobile-expand { color: #e12727; }
+
 .jv-job-category-label 	{ color: #e12727; }
 
 .jv-job-category-meta 	{}
