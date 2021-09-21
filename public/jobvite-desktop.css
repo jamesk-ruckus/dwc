@@ -20,7 +20,7 @@
 
 .jv-logo a { color: #E12727; }
 
-.jv-logo a:hover { color: #E12727; }
+h1.jv-logo a:hover { color: #E12727; }
 
 .jv-job-list-name a	{ color: #E12727; }
 
@@ -37,7 +37,7 @@ h3.h2     			{ }
 
   & .jv-job-list-name { }
 
-  & .jv-job-list-location  	{ }
+  & .jv-job-list-location  	{ color: #fff }
 }
 
 /* ========== JOB DETAILS PAGE =============== */
