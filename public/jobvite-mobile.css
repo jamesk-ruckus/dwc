@@ -80,7 +80,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  border-bottom: solid 1px #fff;
 }
 
-#jv-job-alert-categories {
+#jv-job-alert-categories, #jv-job-alert-locations {
  background-color: #000;
  color: #fff;
 }
