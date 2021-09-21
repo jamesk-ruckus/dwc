@@ -54,7 +54,7 @@
 
 /* ===== SITE LAYOUT =================== */
 
-.jv-logo a { font-size: 30px; color: #fff; text-transform: uppercase; }
+.jv-logo a { font-size: 20px; color: #fff; text-transform: uppercase; }
 
 .jv-logo a:hover { font-size: 30px; color: #e12727 }
 
@@ -111,11 +111,6 @@ p, li {  font-family: 'Fenomen Sans', sans-serif; }
 .jv-list-label 			{}
 
 .jv-meta 				{}
-
-
-
-
-
 
 
 /* ========== JOB DETAILS PAGE =============== */
