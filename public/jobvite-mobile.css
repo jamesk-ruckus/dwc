@@ -74,7 +74,7 @@ p, li {  font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-body 		{ color: #fff }
 
-.jv-page-body .jv-wrapper 		{ color: #000; color: #fff }
+.jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
 
 .jv-footer 			{}
 
