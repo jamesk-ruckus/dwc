@@ -33,7 +33,7 @@ h3.h2     			{ }
 .jv-job-list {
   & th  	{ }
 
-  & td  	{ }
+  & td  	{ color: #fff }
 
   & .jv-job-list-name { }  
 }
