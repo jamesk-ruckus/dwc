@@ -2,8 +2,6 @@
 
 .jv-page-container { background: black; }
 
-.jv-logo a { color: #fff; }
-
 .jv-page 			{ }
 
 .jv-page-content 	{ }
@@ -19,6 +17,10 @@
 
 
 /* ===== JOB LISTINGS PAGE  =================== */
+
+.jv-logo a { color: #fff; }
+
+.jv-logo a:hover { color: #fff; }
 
 .jv-page-error 		{ }
 
@@ -37,11 +39,6 @@ h3.h2     			{ }
 
   & .jv-job-list-location  	{ }
 }
-
-
-
-
-
 
 /* ========== JOB DETAILS PAGE =============== */
 
