@@ -72,7 +72,7 @@
 
 .jv-page-body 		{ color: #fff }
 
-.jv-wrapper 		{ background: #000; color: #fff }
+.jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
 
 .jv-footer 			{}
 
