@@ -136,7 +136,7 @@ h2.jv-header 	{ color: #E12727 }
 .jv-job-detail-meta,
 .jv-apply-meta    		{ color: #fff; }
 
-.jv-button.jv-button-primary { 
+.jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button { 
   border-radius: 0;
   color: #201e1d;
   background-color: #e12727;
@@ -145,13 +145,8 @@ h2.jv-header 	{ color: #E12727 }
   border-color: transparent;
   font-family: 'Fenomen Sans', sans-serif;
   font-weight: 600;
+  text-transform: uppercase;
 }
-
-.jv-button { }
-
-.jv-button-primary { }
-
-
 
 .jv-current-openings 	{ }
 
