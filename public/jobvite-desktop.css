@@ -134,7 +134,7 @@ a:hover { color: #E12727 }
 h2.jv-header 	{}
 
 .jv-job-detail-meta,
-.jv-apply-meta    		{}
+.jv-apply-meta    		{ color: #fff; }
 
 .jv-button { }
 
