@@ -96,6 +96,10 @@ p, li {  font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-list-icon 			{}
 
+.jv-icon-primary.icon.icon-pin {
+ color: #e12727;
+}
+
 .jv-job-list 			{}
 
 .jv-job-list-inner 		{}
@@ -150,10 +154,6 @@ h3.jv-sub-header { font-family: 'Fenomen Sans', sans-serif; }
   font-family: 'Fenomen Sans', sans-serif;
   font-weight: 600;
   text-transform: uppercase;
-}
-
-.jv-icon-primary {
-  background-color: #e12727;
 }
 
 .jv-current-openings 	{}
