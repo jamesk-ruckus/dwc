@@ -80,7 +80,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  border-bottom: solid 1px #fff;
 }
 
-.jv-job-alert-categories {
+#jv-job-alert-categories {
  background-color: #000;
  color: #fff;
 }
@@ -129,7 +129,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  color: #e12727; 
 }
 
-.jv-job-category-label, .jv-list-icon.icon.icon-mobile-expand, .jv-list-icon.icon.icon-mobile-collapse { 
+.jv-job-category-label, .jv-list-icon.icon.icon-mobile-expand, .jv-list-icon.icon.icon-mobile-collapse, .jv-form-field label { 
  color: #fff; 
 }
 
