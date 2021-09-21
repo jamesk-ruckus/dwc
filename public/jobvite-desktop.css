@@ -147,6 +147,8 @@ h2.jv-header 	{ color: #E12727 }
 .jv-job-detail-bottom-actions,
 .jv-apply-form-actions 	{ }
 
+.jv-job-detail-description li { color: #fff }
+
 
 
 /* ========== APPLY PAGE ====================== */
