@@ -37,7 +37,7 @@ h3.h2     			{ }
 
   & .jv-job-list-name { }
 
-  & .jv-job-list-location  	{ color: #fff }
+  & .jv-job-list-location td { color: #fff }
 }
 
 /* ========== JOB DETAILS PAGE =============== */
