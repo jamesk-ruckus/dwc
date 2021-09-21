@@ -112,8 +112,12 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-job-categories 		{ background-color: #000 }
 
-.jv-icon-primary.icon.icon-pin, .jv-job-category-label, .jv-job-category-link.jv-list-icon, .jv-list-icon.icon.icon-mobile-expand, jv-list-icon.icon.icon-mobile-collapse { 
+.jv-icon-primary.icon.icon-pin, .jv-job-category-label, .jv-job-category-link.jv-list-icon { 
  color: #e12727; 
+}
+
+.jv-list-icon.icon.icon-mobile-expand, .jv-list-icon.icon.icon-mobile-collapse { 
+ color: #fff; 
 }
 
 .jv-job-category-meta 	{}
