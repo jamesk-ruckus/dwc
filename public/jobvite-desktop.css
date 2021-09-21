@@ -31,7 +31,9 @@ h3.h2     			{ }
 
   & td  	{ }
 
-  & .jv-job-list-name  		{ }
+  & .jv-job-list-name a	{ 
+    color: #E12727;
+  }
 
   & .jv-job-list-location  	{ }
 }
