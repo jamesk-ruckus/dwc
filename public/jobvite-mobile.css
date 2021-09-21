@@ -74,7 +74,13 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-header 	{ background-color: #000 }
 
-.jv-tabs 			{ background-color: #e12727 }
+.jv-tabs 			{ 
+ background-color: #e12727; 
+ border-top: solid 1px #fff;
+ border-bottom: solid 1px #fff;
+}
+
+.jv-job-category-meta { color: #fff }
 
 .jv-tab 			{ color: #000 }
 
