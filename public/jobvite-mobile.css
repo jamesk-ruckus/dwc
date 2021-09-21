@@ -58,6 +58,8 @@
 
 .jv-logo a:hover { font-size: 30px; color: #e12727 }
 
+.jv-logo:after { background: transparent }
+
 .jv-page-container 	{}
 
 .jv-page 			{ font-family: 'Revans', sans-serif; }
