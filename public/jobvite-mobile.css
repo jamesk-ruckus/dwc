@@ -116,7 +116,9 @@ p {  font-family: 'Fenomen Sans', sans-serif; }
 
 /* ========== JOB DETAILS PAGE =============== */
 
-h2.jv-header 					{}
+h2.jv-header 					{ font-family: 'Fenomen Sans', sans-serif; }
+
+h3.jv-sub-header { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-job-detail-location			{}
 
