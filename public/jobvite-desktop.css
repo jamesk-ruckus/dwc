@@ -58,7 +58,7 @@ html { background: #000000; }
 
 .jv-page-container { background: #000000; }
 
-.jv-page 			{ font-family: 'Fenomen Sans', sans-serif; width: inital; }
+.jv-page 			{ font-family: 'Fenomen Sans', sans-serif; width: inital; max-width: 780px; }
 
 .jv-page-content 	{ }
 
