@@ -120,6 +120,10 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  color: #e12727;
 }
 
+.jv-share-widget-title {
+ font-family: 'Fenomen Sans', sans-serif;
+}
+
 .jv-job-list 			{}
 
 .jv-job-list-inner 		{}
