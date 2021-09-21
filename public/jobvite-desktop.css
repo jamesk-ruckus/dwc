@@ -100,7 +100,7 @@ h3.h2     			{
 }
 
 .jv-job-detail-description h3 {
-  color: #E12727;
+  color: #fff;
 }
 
 h2 { 
@@ -131,7 +131,7 @@ a:hover { color: #E12727 }
 
 /* ========== JOB DETAILS PAGE =============== */
 
-h2.jv-header 	{}
+h2.jv-header 	{ color: #E12727 }
 
 .jv-job-detail-meta,
 .jv-apply-meta    		{ color: #fff; }
