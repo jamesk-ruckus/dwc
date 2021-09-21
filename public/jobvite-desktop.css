@@ -114,7 +114,12 @@ h2 {
   & .jv-job-list-name { }  
 }
 
-.jv-job-list-location, p { color: #fff }
+.jv-job-list-location { color: #fff }
+
+p { 
+font-family: 'Fenomen Sans', sans-serif;
+  color: #fff;
+}
 
 a { color: #E12727 }
 
