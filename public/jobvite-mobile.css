@@ -72,12 +72,13 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-content 	{}
 
-.jv-page-header 	{ background: #000 }
+.jv-page-header 	{ background-color: #000 }
 
-.jv-tabs 			{}
+.jv-tabs 			{ background-color: #e12727 }
 
-.jv-tab 			{}
+.jv-tab 			{ color: #000 }
 
+.jv-tab.jv-tab-active { color: #000 }
 .jv-page-body 		{ color: #fff }
 
 .jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
@@ -114,7 +115,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-job-category-link 	{}
 
-.jv-job-category-label 	{ color: #fff; }
+.jv-job-category-label 	{ color: #e12727; }
 
 .jv-job-category-meta 	{}
 
