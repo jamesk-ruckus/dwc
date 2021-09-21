@@ -2,11 +2,7 @@
 
 .jv-page-container { background: black; }
 
-.jv-logo { 
-  a { 
-    #fff 
-  } 
-}
+.jv-logo a { color: #fff; }
 
 .jv-page 			{ }
 
