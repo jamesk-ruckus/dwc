@@ -54,21 +54,25 @@
 
 /* ===== SITE LAYOUT =================== */
 
+.jv-logo a { font-size: 30px; color: #fff }
+
+.jv-logo a:hover { font-size: 30px; color: #e12727 }
+
 .jv-page-container 	{}
 
-.jv-page 			{}
+.jv-page 			{ font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-content 	{}
 
-.jv-page-header 	{}
+.jv-page-header 	{ background: #000 }
 
 .jv-tabs 			{}
 
 .jv-tab 			{}
 
-.jv-page-body 		{}
+.jv-page-body 		{ color: #fff }
 
-.jv-wrapper 		{}
+.jv-wrapper 		{ background: #000; color: #fff }
 
 .jv-footer 			{}
 
