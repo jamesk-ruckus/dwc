@@ -54,7 +54,7 @@
 
 /* ===== SITE LAYOUT =================== */
 
-.jv-logo a { font-size: 30px; color: #fff }
+.jv-logo a { font-size: 30px; color: #fff; text-transform: uppercase; }
 
 .jv-logo a:hover { font-size: 30px; color: #e12727 }
 
@@ -74,7 +74,7 @@ p, li {  font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-body 		{ color: #fff }
 
-.jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
+.jv-page-body .jv-wrapper 		{ color: #000; color: #fff }
 
 .jv-footer 			{}
 
