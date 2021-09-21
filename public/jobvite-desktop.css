@@ -136,9 +136,18 @@ h2.jv-header 	{ color: #E12727 }
 .jv-job-detail-meta,
 .jv-apply-meta    		{ color: #fff; }
 
+.jv-button.jv-button-primary { 
+  border-radius: 0;
+  color: #201e1d;
+  background-color: #e12727;
+  font-size: 16px;
+}
+
 .jv-button { }
 
 .jv-button-primary { }
+
+
 
 .jv-current-openings 	{ }
 
