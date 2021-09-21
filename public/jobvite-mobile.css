@@ -82,7 +82,22 @@ p, li {  font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-nav.jv-animate { background-color: #000 }
 
-.jv-search-icon { color: #fff; }
+.jv-search-icon { color: #000; }
+
+
+.jv-search-field::placeholder {
+  color: #000;
+  opacity: 1;
+}
+
+.jv-search-field:-ms-input-placeholder {
+  color: #000;
+}
+
+.jv-search-field::-ms-input-placeholder {
+  color: #000;
+}
+
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
