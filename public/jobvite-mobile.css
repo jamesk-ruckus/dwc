@@ -96,7 +96,7 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 }
 
 .jv-tab-active:before {
- color: #e12727;
+ border-top: 10px solid #e12727;
 }
 
 .jv-footer { 
