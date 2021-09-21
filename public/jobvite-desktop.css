@@ -2,6 +2,12 @@
 
 .jv-page-container { background: black; }
 
+.jv-logo { 
+  a { 
+    #fff 
+  } 
+}
+
 .jv-page 			{ }
 
 .jv-page-content 	{ }
