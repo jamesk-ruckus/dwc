@@ -148,7 +148,7 @@ h2.jv-header 	{ color: #E12727 }
   text-transform: uppercase;
 }
 
-.jv-current-openings 	{ }
+.jv-current-openings 	{ font-family: 'Fenomen Sans', sans-serif; color: #E12727 }
 
 .jv-share-widget 		{ }
 
