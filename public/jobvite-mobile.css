@@ -80,9 +80,9 @@ p, li {  font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-footer 			{}
 
-.jv-nav.jv-animate { background-color: #fff }
+.jv-nav.jv-animate { background-color: #000 }
 
-
+.jv-search-icon { color: #fff; }
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
