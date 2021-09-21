@@ -86,6 +86,10 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  color: #000 
 }
 
+.jv-footer { 
+ background-color: #000
+}
+
 .jv-page-body .jv-wrapper 		{ background-color: #000; color: #fff }
 
 .jv-wrapper a, .jv-list-label { color: #e12727; }
