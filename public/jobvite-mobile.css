@@ -86,6 +86,10 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  color: #000 
 }
 
+.jv-tab-active:before {
+ color: #e12727;
+}
+
 .jv-footer { 
  background-color: #000
 }
