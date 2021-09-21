@@ -30,6 +30,8 @@ h1.jv-logo a:hover { color: #fff; }
 
 h3.h2     			{ color: #E12727 }
 
+h2 { color: #E12727 }
+
 .jv-job-list {
   & th  	{ }
 
