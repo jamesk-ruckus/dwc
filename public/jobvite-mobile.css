@@ -175,6 +175,10 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 .jv-tag-new {
   background-color: #e12727;
 }
+
+.jv-job-alert-pane p {
+ color: #fff;
+}
 /* ========== APPLY PAGE ====================== */
 
 .jv-sub-header 			{}
