@@ -18,9 +18,9 @@
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
-.jv-logo a { color: #E12727; }
+.jv-logo a { color: #fff; }
 
-h1.jv-logo a:hover { color: #E12727; }
+h1.jv-logo a:hover { color: #fff; }
 
 .jv-job-list-name a	{ color: #E12727; }
 
@@ -28,7 +28,7 @@ h1.jv-logo a:hover { color: #E12727; }
 
 .jv-page-body h2 	{ }
 
-h3.h2     			{ }
+h3.h2     			{ color: #E12727 }
 
 .jv-job-list {
   & th  	{ }
