@@ -114,7 +114,7 @@ h2 {
   & .jv-job-list-name { }  
 }
 
-.jv-job-list-location { color: #fff }
+.jv-job-list-location, p { color: #fff }
 
 a { color: #E12727 }
 
