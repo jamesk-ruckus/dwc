@@ -74,7 +74,7 @@ html { background: #000000; }
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
-.jv-logo a { 
+.jv-logo a {
   font-family: 'Revans', sans-serif;
   font-weight: 700;
   font-size: 66px;
@@ -97,6 +97,10 @@ h3.h2     			{
   line-height: 24px;
   font-weight: 700;
   color: #fff; 
+}
+
+.jv-job-detail-description h3 {
+  color: #E12727;
 }
 
 h2 { 
