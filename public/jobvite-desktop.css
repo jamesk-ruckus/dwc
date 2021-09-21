@@ -1,3 +1,14 @@
+  @font-face {
+    font-family: 'Revans';
+    src:
+      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.otf?v=1632238526') format('opentype'),
+      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.woff2?v=1632238526') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.otf?v=1632238526') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
 /* ===== SITE LAYOUT =================== */
 
 .jv-page-container { background: black; }
@@ -18,7 +29,10 @@
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
-.jv-logo a { color: #E12727; }
+.jv-logo a { 
+  font-family: 'Revans', sans-serif;
+  color: #E12727;
+}
 
 h1.jv-logo a:hover { color: #E12727; }
 
