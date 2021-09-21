@@ -74,8 +74,12 @@
 
 .jv-logo a { 
   font-family: 'Revans', sans-serif;
-  color: #fff;
+  font-weight: 700;
   font-size: 66px;
+  color: #fff;
+  line-height: 1;    
+  letter-spacing: normal;
+  text-transform: uppercase;
 }
 
 h1.jv-logo a:hover { color: #E12727; }
