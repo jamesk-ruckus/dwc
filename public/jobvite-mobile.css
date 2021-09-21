@@ -184,6 +184,10 @@ a.jv-button-primary, a.jv-button-apply-later { color: #000 }
 .jv-job-alert-pane p {
  color: #fff;
 }
+
+.jv-form-field-control input {
+ background-color: #fff 
+}
 /* ========== APPLY PAGE ====================== */
 
 .jv-sub-header 			{}
