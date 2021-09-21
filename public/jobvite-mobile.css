@@ -103,6 +103,8 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-wrapper a, .jv-list-label { color: #e12727; }
 
+a.jv-button-primary { color: #000 }
+
 .jv-search-field::placeholder {
  color: #000;
  opacity: 1;
