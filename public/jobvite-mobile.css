@@ -159,6 +159,9 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
   color: #fff;
 }
 
+.jv-tag-new {
+  background-color: #e12727;
+}
 /* ========== APPLY PAGE ====================== */
 
 .jv-sub-header 			{}
