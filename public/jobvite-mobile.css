@@ -80,7 +80,12 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
  border-bottom: solid 1px #fff;
 }
 
-.jv-page-body, .icon.icon-powered-by,	.jv-job-category-meta	{ color: #fff }
+.jv-job-alert-categories {
+ background: #000;
+ color: #fff;
+}
+
+.jv-page-body, .icon.icon-powered-by,	.jv-job-category-meta, .jv-job-alert-categories	{ color: #fff }
 
 .jv-tab, .jv-search-icon, .jv-tab.jv-tab-active, .jv-footer, .jv-nav.jv-animate	{ 
  color: #000 
