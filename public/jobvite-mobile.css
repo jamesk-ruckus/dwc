@@ -124,9 +124,29 @@ h2.jv-header 					{}
 
 .jv-job-detail-bottom-actions 	{}
 
-.jv-button 				{}
+.jv-button 				{
+  border-radius: 0;
+  color: #201e1d;
+  background-color: #e12727;
+  font-size: 16px;
+  line-height: 1.5;
+  border-color: transparent;
+  font-family: 'Fenomen Sans', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
 
-.jv-button-primary 		{}
+.jv-button-primary 		{
+  border-radius: 0;
+  color: #201e1d;
+  background-color: #e12727;
+  font-size: 16px;
+  line-height: 1.5;
+  border-color: transparent;
+  font-family: 'Fenomen Sans', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
 
 .jv-current-openings 	{}
 
