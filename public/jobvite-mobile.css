@@ -185,8 +185,8 @@ a.jv-button-primary, a.jv-button-apply-later { color: #000 }
  color: #fff;
 }
 
-.jv-form-field-control input {
- background-color: #fff 
+.jv-form-field-control input.jv-has-clear-input {
+ background-color: #fff; 
 }
 /* ========== APPLY PAGE ====================== */
 
