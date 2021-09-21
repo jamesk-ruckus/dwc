@@ -94,7 +94,12 @@ h1.jv-logo a:hover { color: #E12727; }
 
 h3.h2     			{ color: #fff }
 
-h2 { color: #fff }
+h2 { 
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #fff;
+}
 
 .jv-job-list {
   & th  	{ }
