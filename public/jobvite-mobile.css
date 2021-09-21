@@ -152,6 +152,10 @@ h3.jv-sub-header { font-family: 'Fenomen Sans', sans-serif; }
   text-transform: uppercase;
 }
 
+.jv-icon-primary {
+  background-color: #e12727;
+}
+
 .jv-current-openings 	{}
 
 .jv-share-widget 		{}
