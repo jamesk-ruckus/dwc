@@ -122,7 +122,9 @@ p, li { font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-job-categories 		{ background-color: #000 }
 
-.jv-job-category-link 	{}
+
+
+.jv-job-category-link.jv-list-icon { color: #e12727 }
 
 .jv-job-category-label 	{ color: #e12727; }
 
