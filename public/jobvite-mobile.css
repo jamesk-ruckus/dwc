@@ -62,7 +62,7 @@
 
 .jv-page 			{ font-family: 'Revans', sans-serif; }
 
-p {  font-family: 'Fenomen Sans', sans-serif; }
+p, li {  font-family: 'Fenomen Sans', sans-serif; }
 
 .jv-page-content 	{}
 
