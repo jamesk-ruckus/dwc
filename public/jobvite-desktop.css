@@ -54,7 +54,9 @@
 
 /* ===== SITE LAYOUT =================== */
 
-.jv-page-container { background: black; }
+html { background: #000000; }
+
+.jv-page-container { background: #000000; }
 
 .jv-page 			{ font-family: 'Fenomen Sans', sans-serif; }
 
