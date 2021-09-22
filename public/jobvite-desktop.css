@@ -219,7 +219,11 @@ h3.jv-share-widget-title {
   font-family: 'Fenomen Sans', sans-serif;
 }
 
-.jv-form-field-control, .jv-form-field input#jv-job-alert-first-name, .jv-form-field input:focus {
+.jv-form-field-control, 
+.jv-form-field input#jv-job-alert-first-name, 
+.jv-form-field input#jv-job-alert-last-name, 
+.jv-form-field input#jv-job-alert-email, 
+.jv-form-field input:focus {
   background-color: #fff;
 }
 
