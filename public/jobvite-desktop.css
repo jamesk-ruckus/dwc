@@ -223,7 +223,7 @@ h3.jv-share-widget-title {
   background-color: #fff;
 }
 
-.jv-form-field input.ng-pristine.ng-untouched.ng-empty.ng-invalid.ng-invalid-required {
+input.ng-pristine.ng-untouched.ng-empty.ng-invalid.ng-invalid-required {
   color: #fff;
 }
 
