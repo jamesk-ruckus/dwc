@@ -62,11 +62,11 @@
 /* ===== SITE LAYOUT =================== */
 
 html {
-  background: #000000;
+  background-color: #000000;
 }
 
 .jv-page-container {
-  background: #000000;
+  background-color: #000000;
 }
 
 .jv-page {
@@ -223,6 +223,10 @@ h3.jv-share-widget-title {
 
 .jv-form-field-control .jv-input-group {
   background-color: #000;
+}
+
+.jv-attach-social-profile {
+  background-color: #fff;
 }
 
 /* ========== APPLY PAGE ====================== */
