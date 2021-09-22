@@ -99,10 +99,6 @@ h3.h2     			{
   color: #fff; 
 }
 
-.jv-job-detail-description h3 {
-  color: #fff;
-}
-
 h2 { 
   font-size: 20px;
   line-height: 24px;
@@ -121,7 +117,7 @@ h2 {
 .jv-job-list-location { color: #fff }
 
 p { 
-font-family: 'Fenomen Sans', sans-serif;
+  font-family: 'Fenomen Sans', sans-serif;
   color: #fff;
 }
 
@@ -134,7 +130,9 @@ a:hover { color: #E12727 }
 h2.jv-header 	{ color: #E12727 }
 
 .jv-job-detail-meta, .jv-step-header,
-.jv-apply-meta, .jv-form-field-label, p.awli-text.blue.large-logged-out-text  { color: #fff; }
+.jv-apply-meta, .jv-form-field-label, p.awli-text.blue.large-logged-out-text, .jv-share-widget-title, .jv-job-detail-description li, .jv-job-detail-description h3 { 
+  color: #fff; 
+}
 
 .jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button, .jv-attach-social-profile #awli-button-member-logged-out { 
   border-radius: 0;
@@ -154,8 +152,6 @@ h2.jv-header 	{ color: #E12727 }
 
 .jv-job-detail-bottom-actions,
 .jv-apply-form-actions 	{ }
-
-.jv-job-detail-description li { color: #fff }
 
 h3.jv-share-widget-title { font-family: 'Fenomen Sans', sans-serif; }
 
