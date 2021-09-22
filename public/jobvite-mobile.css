@@ -249,7 +249,7 @@ h3.jv-sub-header,
   background-color: #fff;
 }
 
-.jv-form-bg-icon {
+.jv-form-bg-icon, .jv-form-bg-icon.ng-pristine.ng-untouched.jv-has-clear-input {
   background-color: #fff
 }
 /* ========== APPLY PAGE ====================== */
