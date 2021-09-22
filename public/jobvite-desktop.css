@@ -134,7 +134,7 @@ a:hover { color: #E12727 }
 h2.jv-header 	{ color: #E12727 }
 
 .jv-job-detail-meta, .jv-step-header,
-.jv-apply-meta, jv-form-field-label  { color: #fff; }
+.jv-apply-meta, .jv-form-field-label  { color: #fff; }
 
 .jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button { 
   border-radius: 0;
