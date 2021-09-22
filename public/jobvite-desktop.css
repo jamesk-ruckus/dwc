@@ -178,7 +178,8 @@ p.awli-text.blue.large-logged-out-text,
 .awli-wrapper p,
 .jv-prescreen-section-header,
 .jv-form-field-legend,
-.jv-form.jv-input-group-row {
+.jv-form.jv-input-group-row, 
+.jv-form-categories {
   color: #fff;
 }
 
