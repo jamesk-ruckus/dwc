@@ -168,6 +168,10 @@ a.jv-button-apply-later {
   font-family: 'Fenomen Sans', sans-serif;
 }
 
+.icon.icon-profile.jv-form-field-icon {
+  color: #fff;
+}
+
 /* ===== JOB LISTINGS PAGE  =================== */
 
 .jv-job-list-pane {
