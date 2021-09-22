@@ -1,76 +1,96 @@
-  @font-face {
-    font-family: 'Revans';
-    src:
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.otf?v=1632238526') format('opentype'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.woff2?v=1632238526') format('woff2'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.otf?v=1632238526') format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: 'Revans';
+  src: url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.otf?v=1632238526')
+      format('opentype'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.woff2?v=1632238526')
+      format('woff2'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Revans-Bold.otf?v=1632238526')
+      format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
 
+@font-face {
+  font-family: 'Fenomen Sans';
+  src: url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.otf?v=1632238423')
+      format('opentype'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.woff2?v=1632238423')
+      format('woff2'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.woff?v=1632238423')
+      format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
 
-  @font-face {
-    font-family: 'Fenomen Sans';
-    src:
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.otf?v=1632238423') format('opentype'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.woff2?v=1632238423') format('woff2'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.woff?v=1632238423') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: 'Fenomen Sans';
+  src: url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Book.woff2?v=1632238423')
+      format('woff2'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Book.woff?v=1632238423')
+      format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
-  @font-face {
-    font-family: 'Fenomen Sans';
-    src:
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Book.woff2?v=1632238423') format('woff2'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Book.woff?v=1632238423') format('woff');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: 'Fenomen Sans';
+  src: url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-SemiBold.otf?v=1632238423')
+      format('opentype'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.woff2?v=1632238423')
+      format('woff2'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-SemiBold.woff?v=1632238423')
+      format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
 
-  @font-face {
-    font-family: 'Fenomen Sans';
-    src:
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-SemiBold.otf?v=1632238423') format('opentype'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Light.woff2?v=1632238423') format('woff2'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-SemiBold.woff?v=1632238423') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-  }
-
-  @font-face {
-    font-family: 'Fenomen Sans';
-    src:
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Bold.woff?v=1632238424') format('woff2'),
-      url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Bold.woff2?v=1632238423') format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: 'Fenomen Sans';
+  src: url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Bold.woff?v=1632238424')
+      format('woff2'),
+    url('https://cdn.shopify.com/s/files/1/0271/7209/files/Fenomen-Sans-Bold.woff2?v=1632238423')
+      format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
 
 /* ===== SITE LAYOUT =================== */
 
-html { background: #000000; }
+html {
+  background: #000000;
+}
 
-.jv-page-container { background: #000000; }
+.jv-page-container {
+  background: #000000;
+}
 
-.jv-page { font-family: 'Fenomen Sans', sans-serif; width: initial; max-width: 700px; margin: 0 auto; padding: 25px; }
+.jv-page {
+  font-family: 'Fenomen Sans', sans-serif;
+  width: initial;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 25px;
+}
 
-.jv-page-content 	{ }
+.jv-page-content {
+}
 
-.jv-page-header 	{ }
+.jv-page-header {
+}
 
-.jv-page-body 		{ }
+.jv-page-body {
+}
 
-.jv-wrapper 		{ }
+.jv-wrapper {
+}
 
-.jv-footer 			{ }
-
-
+.jv-footer {
+}
 
 /* ===== JOB LISTINGS PAGE  =================== */
 
@@ -79,27 +99,33 @@ html { background: #000000; }
   font-weight: 700;
   font-size: 66px;
   color: #fff;
-  line-height: 1;    
+  line-height: 1;
   letter-spacing: normal;
   text-transform: uppercase;
 }
 
-h1.jv-logo a:hover { color: #E12727; }
+h1.jv-logo a:hover {
+  color: #e12727;
+}
 
-.jv-job-list-name a	{ color: #E12727; }
+.jv-job-list-name a {
+  color: #e12727;
+}
 
-.jv-page-error 		{ }
+.jv-page-error {
+}
 
-.jv-page-body h2 	{ }
+.jv-page-body h2 {
+}
 
-h3.h2     			{   
+h3.h2 {
   font-size: 20px;
   line-height: 24px;
   font-weight: 700;
-  color: #fff; 
+  color: #fff;
 }
 
-h2 { 
+h2 {
   font-size: 20px;
   line-height: 24px;
   font-weight: 700;
@@ -107,34 +133,56 @@ h2 {
 }
 
 .jv-job-list {
-  & th  	{ }
+  & th {
+  }
 
-  & td  	{ color: #fff }
+  & td {
+    color: #fff;
+  }
 
-  & .jv-job-list-name { }  
+  & .jv-job-list-name {
+  }
 }
 
-.jv-job-list-location { color: #fff }
+.jv-job-list-location {
+  color: #fff;
+}
 
-p { 
+p {
   font-family: 'Fenomen Sans', sans-serif;
   color: #fff;
 }
 
-a { color: #E12727 }
+a {
+  color: #e12727;
+}
 
-a:hover { color: #E12727 }
+a:hover {
+  color: #e12727;
+}
 
 /* ========== JOB DETAILS PAGE =============== */
 
-h2.jv-header 	{ color: #E12727 }
-
-.jv-job-detail-meta, .jv-step-header,
-.jv-apply-meta, .jv-form-field-label, p.awli-text.blue.large-logged-out-text, .jv-share-widget-title, .jv-job-detail-description li, .jv-job-detail-description h3 { 
-  color: #fff; 
+h2.jv-header {
+  color: #e12727;
 }
 
-.jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button, .jv-attach-social-profile #awli-button-member-logged-out { 
+.jv-job-detail-meta,
+.jv-step-header,
+.jv-apply-meta,
+.jv-form-field-label,
+p.awli-text.blue.large-logged-out-text,
+.jv-share-widget-title,
+.jv-job-detail-description li,
+.jv-job-detail-description h3,
+.awli-wrapper p {
+  color: #fff;
+}
+
+.jv-button.jv-button-primary,
+.jv-button.jv-button-apply-later,
+.jv-button,
+.awli-wrapper .large.blue.sign-out-btn {
   border-radius: 0;
   color: #201e1d;
   background-color: #e12727;
@@ -146,31 +194,44 @@ h2.jv-header 	{ color: #E12727 }
   text-transform: uppercase;
 }
 
-.jv-current-openings 	{ font-family: 'Fenomen Sans', sans-serif; color: #E12727 }
+.jv-current-openings {
+  font-family: 'Fenomen Sans', sans-serif;
+  color: #e12727;
+}
 
-.jv-share-widget 		{ }
+.jv-share-widget {
+}
 
 .jv-job-detail-bottom-actions,
-.jv-apply-form-actions 	{ }
+.jv-apply-form-actions {
+}
 
-h3.jv-share-widget-title { font-family: 'Fenomen Sans', sans-serif; }
+h3.jv-share-widget-title {
+  font-family: 'Fenomen Sans', sans-serif;
+}
 
 .jv-form-field-control {
- background-color: #fff; 
+  background-color: #fff;
 }
 
 /* ========== APPLY PAGE ====================== */
 
-.jv-form 				{}
+.jv-form {
+}
 
-.jv-apply-form 			{}
+.jv-apply-form {
+}
 
-.jv-search-form 		{}
+.jv-search-form {
+}
 
-.jv-apply-step 			{}
+.jv-apply-step {
+}
 
-.jv-apply-section 		{}
+.jv-apply-section {
+}
 
 /* Section Title */
 
-.jv-required-label 		{}
+.jv-required-label {
+}
