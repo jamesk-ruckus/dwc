@@ -194,12 +194,12 @@ p.awli-text.blue.large-logged-out-text,
   text-transform: uppercase;
 }
 
-.jv-current-openings {
+.jv-current-openings a {
   font-family: 'Fenomen Sans', sans-serif;
   color: #fff;
 }
 
-.jv-current-openings:hover {
+.jv-current-openings a:hover {
   font-family: 'Fenomen Sans', sans-serif;
   color: #e12727;
 }
