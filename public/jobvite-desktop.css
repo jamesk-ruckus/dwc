@@ -204,6 +204,10 @@ p.awli-text.blue.large-logged-out-text,
   color: #e12727;
 }
 
+.jv-current-openings:hover {
+  color: #fff
+}
+
 .jv-share-widget {
 }
 
