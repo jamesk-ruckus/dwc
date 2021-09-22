@@ -219,12 +219,8 @@ h3.jv-share-widget-title {
   font-family: 'Fenomen Sans', sans-serif;
 }
 
-.jv-form-field-control {
+.jv-form-field-control, .jv-form-field input, .jv-form-field input:focus {
   background-color: #fff;
-}
-
-input.ng-pristine.ng-untouched.ng-empty.ng-invalid.ng-invalid-required {
-  color: #fff;
 }
 
 .jv-form-field-radio .jv-form-field-control {
