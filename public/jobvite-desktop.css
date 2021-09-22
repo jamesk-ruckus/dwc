@@ -220,7 +220,7 @@ h3.jv-share-widget-title {
 }
 
 .jv-form-field-control, .jv-form-field input.ng-pristine.ng-untouched.ng-empty.ng-invalid.ng-invalid-required {
-  background-color: #fff;
+  background-color: #fff !important;
 }
 
 .jv-form-field-radio .jv-form-field-control {
