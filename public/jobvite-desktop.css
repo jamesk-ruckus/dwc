@@ -221,6 +221,10 @@ h3.jv-share-widget-title {
   background-color: #000;
 }
 
+.jv-form-field-control .jv-input-group {
+  background-color: #000;
+}
+
 /* ========== APPLY PAGE ====================== */
 
 .jv-form {
