@@ -133,8 +133,8 @@ a:hover { color: #E12727 }
 
 h2.jv-header 	{ color: #E12727 }
 
-.jv-job-detail-meta,
-.jv-apply-meta    		{ color: #fff; }
+.jv-job-detail-meta, .jv-step-header,
+.jv-apply-meta, jv-form-field-label  { color: #fff; }
 
 .jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button { 
   border-radius: 0;
@@ -174,8 +174,6 @@ h3.jv-share-widget-title { font-family: 'Fenomen Sans', sans-serif; }
 .jv-apply-step 			{}
 
 .jv-apply-section 		{}
-
-.jv-step-header 		{}
 
 /* Section Title */
 
