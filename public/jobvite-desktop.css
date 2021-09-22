@@ -136,7 +136,7 @@ h2.jv-header 	{ color: #E12727 }
 .jv-job-detail-meta, .jv-step-header,
 .jv-apply-meta, .jv-form-field-label, p.awli-text.blue.large-logged-out-text  { color: #fff; }
 
-.jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button { 
+.jv-button.jv-button-primary, .jv-button.jv-button-apply-later, .jv-button, #awli-button-member-logged-out { 
   border-radius: 0;
   color: #201e1d;
   background-color: #e12727;
