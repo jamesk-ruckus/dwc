@@ -175,7 +175,10 @@ p.awli-text.blue.large-logged-out-text,
 .jv-share-widget-title,
 .jv-job-detail-description li,
 .jv-job-detail-description h3,
-.awli-wrapper p {
+.awli-wrapper p,
+.jv-prescreen-section-header,
+.jv-form-field-legend,
+.jv-form.jv-input-group-row {
   color: #fff;
 }
 
@@ -194,12 +197,7 @@ p.awli-text.blue.large-logged-out-text,
   text-transform: uppercase;
 }
 
-.jv-current-openings a {
-  font-family: 'Fenomen Sans', sans-serif;
-  color: #fff;
-}
-
-.jv-current-openings a:hover {
+.jv-current-openings {
   font-family: 'Fenomen Sans', sans-serif;
   color: #e12727;
 }
