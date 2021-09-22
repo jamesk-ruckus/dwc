@@ -219,7 +219,7 @@ h3.jv-share-widget-title {
   font-family: 'Fenomen Sans', sans-serif;
 }
 
-.jv-form-field-control, .jv-form-field > input, .jv-form-field input:focus {
+.jv-form-field-control, .jv-form-field label, .jv-form-field input:focus {
   background-color: #fff;
 }
 
